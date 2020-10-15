@@ -1,2 +1,2 @@
 # poke-random-fetch
-Random poke vs. using fetch (js)
+Random poke vs. using ASYNC-AWAIT (js)
